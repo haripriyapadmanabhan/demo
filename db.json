@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "items": 
+  [
+  {"id":1,"title":"Winter body", "price":110,"img":"https://image.shutterstock.com/image-photo/blank-small-book-isolated-on-260nw-112681610.jpg"},
+  {"id":2,"title":"Terry", "price":80,"img":"https://image.shutterstock.com/image-photo/blank-small-book-isolated-on-260nw-112681610.jpg"},
+  {"id":3,"title":"Silent corner","price":120,"img":"https://image.shutterstock.com/image-photo/blank-small-book-isolated-on-260nw-112681610.jpg"},
+  {"id":4,"title":"White", "price":260,"img":"https://image.shutterstock.com/image-photo/blank-small-book-isolated-on-260nw-112681610.jpg"},
+  {"id":5,"title":"Great", "price":160,"img":"https://image.shutterstock.com/image-photo/blank-small-book-isolated-on-260nw-112681610.jpg"},
+  {"id":6,"title":"Blues","price":90,"img":"https://image.shutterstock.com/image-photo/blank-small-book-isolated-on-260nw-112681610.jpg"}
+]
 }
+
